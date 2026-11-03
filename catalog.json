@@ -1,4 +1,19 @@
 {
   "version": 1,
-  "videos": []
+  "videos": [
+    {
+      "id": "cafe",
+      "title": "Café",
+      "language": "pt-BR",
+      "videoUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/cafe.mp4",
+      "advUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/cafe.adv"
+    },
+    {
+      "id": "passa-ball",
+      "title": "Passa Ball - Nada além de 1 minuto",
+      "language": "pt-BR",
+      "videoUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/passa-ball.mp4",
+      "advUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/passa-ball.adv"
+    }
+  ]
 }
