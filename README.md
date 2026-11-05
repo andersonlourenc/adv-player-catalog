@@ -30,3 +30,5 @@ Cada item deve possuir um identificador único, um título, o idioma da audiodes
 ## Créditos
 
 - **Big Buck Bunny** - Copyright 2008 Blender Foundation / [bigbuckbunny.org](https://www.bigbuckbunny.org/). Distribuído sob a licença [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/).
+- **Caminandes: Llama Drama** - Pablo Vazquez, Beorn Leonard e Francesco Siddi; música e som de Jan Morgenstern. Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caminandes-_Llama_Drama_-_Short_Movie.ogv). Licença [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/).
+- **Caminandes: Gran Dillama** - Blender Foundation. Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caminandes_-_Gran_Dillama_-_Blender_Foundation%27s_new_Open_Movie.webm). Licença [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

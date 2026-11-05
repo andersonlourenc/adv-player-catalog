@@ -28,6 +28,20 @@
       "language": "en-US",
       "videoUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/wwa.mp4",
       "advUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/wwa.adv"
+    },
+    {
+      "id": "caminandes-llama-drama",
+      "title": "Caminandes: Llama Drama",
+      "language": "pt-BR",
+      "videoUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/llama-drama.mov",
+      "advUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/llama-drama.adv"
+    },
+    {
+      "id": "caminandes-gran-dillama",
+      "title": "Caminandes: Gran Dillama",
+      "language": "pt-BR",
+      "videoUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/gran-dillama.mov",
+      "advUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/gran-dillama.adv"
     }
   ]
 }
