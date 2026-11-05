@@ -21,6 +21,13 @@
       "language": "pt-BR",
       "videoUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/bbb_sunflower.mp4",
       "advUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/bbb_sunflower.adv"
+    },
+    {
+      "id": "world-wide-access",
+      "title": "World Wide Access",
+      "language": "en-US",
+      "videoUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/wwa.mp4",
+      "advUrl": "https://raw.githubusercontent.com/andersonlourenc/adv-player-catalog/main/videos/wwa.adv"
     }
   ]
 }
