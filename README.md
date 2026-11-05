@@ -26,3 +26,7 @@ Catálogo público de vídeos com audiodescrição usados pelo ADV Player.
 ```
 
 Cada item deve possuir um identificador único, um título, o idioma da audiodescrição e URLs HTTPS para o vídeo e o arquivo ADV.
+
+## Créditos
+
+- **Big Buck Bunny** - Copyright 2008 Blender Foundation / [bigbuckbunny.org](https://www.bigbuckbunny.org/). Distribuído sob a licença [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/).
